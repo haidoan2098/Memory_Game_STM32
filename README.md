@@ -1,4 +1,4 @@
-# Đồ ÁN CƠ SỞ 2 - VKU PROJECT.          
+# Đồ ÁN CƠ SỞ 2 - VKU PROJECT       
 # MEMORY GAME USING STM32F103C8T6
 
 ## Describe
